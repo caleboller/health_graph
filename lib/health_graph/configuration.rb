@@ -32,6 +32,7 @@ module HealthGraph
       :sleep => "application/vnd.com.runkeeper.Sleep+json",
       :nutrition_feed => "application/vnd.com.runkeeper.NutritionFeed+json",
       :nutrition => "application/vnd.com.runkeeper.Nutrition+json",
+      :new_nutrition_measurement => "application/vnd.com.runkeeper.NewNutrition+json",
       :weight_feed => "application/vnd.com.runkeeper.WeightFeed+json",
       :weight => "application/vnd.com.runkeeper.Weight+json",
       :general_measurement_feed => "application/vnd.com.runkeeper.GeneralMeasurementFeed+json",
